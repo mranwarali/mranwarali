@@ -39,6 +39,14 @@ Anyone can find me on:  <a href="https://www.linkedin.com/in/anwar955732/">Linke
 <td align="left">MySQL,SQLite</td>
 </tr>
 <tr>
+<td align="left">Framework</td>
+<td align="left">Django</td>
+</tr>
+<tr>
+<td align="left">API</td>
+<td align="left">RestAPI</td>
+</tr>
+<tr>
 <td align="left">Tools/ IDE</td>
 <td align="left">VSCode, Jupyter Notebook, Sublim</td>
 </tr>
