@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-**AnwarAli-786/AnwarAli-786** is a ✨ _special_ ✨ repository
-
 - 🔭 I’m currently working on My Content Creation Skills On Youtube.
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science
