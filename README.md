@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Data Science
-- 📫 How to reach me: <p dir="auto">Anyone can also contact me via: <a href="mailto:geekysession@gmail.com">Email</a></p>
+- 📫 How to reach me: <a href="mailto:geekysession@gmail.com">Email</a>
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: ..
 
