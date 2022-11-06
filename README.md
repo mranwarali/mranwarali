@@ -11,8 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-<img src="https://user-images.githubusercontent.com/74107667/156907927-f76db870-fc89-4d30-ba17-04d6fbfa18c7.jpg" width="800px" height="200px">
-
 <h2>Greetings Respected viewers </h2>
 
 <p>
