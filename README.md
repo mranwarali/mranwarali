@@ -24,7 +24,9 @@ Anyone can find me on:  <a href="https://www.linkedin.com/in/anwar955732/">Linke
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%231572B6.svg?style=for-the-badge&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white) ![Machine Learning](https://img.shields.io/badge/machinelearning-%231572B6.svg?style=for-the-badge&logo=machinelearning&logoColor=white)
+
+
 
 
 <!--job resposibiliy-->
