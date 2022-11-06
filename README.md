@@ -2,14 +2,14 @@
 
 **AnwarAli-786/AnwarAli-786** is a ✨ _special_ ✨ repository
 
-- 🔭 I’m currently working as a final year computer science student.
+- 🔭 I’m currently working on My Content Creation Skills On Youtube.
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Data Science
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- 📫 How to reach me: <p dir="auto">Anyone can also contact me via: <a href="mailto:geekysession@gmail.com">Email</a></p>
+- 😄 Pronouns: He/She
+- ⚡ Fun fact: ..
 
 <h2>Greetings Respected viewers </h2>
 
