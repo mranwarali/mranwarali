@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<--**AnwarAli-786/AnwarAli-786** is a ✨ _special_ ✨ repository
+**AnwarAli-786/AnwarAli-786** is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently working as a final year computer science student.
 - 🌱 I’m currently learning Data Science
@@ -9,10 +9,9 @@
 - 💬 Ask me about Data Science
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 
-https://user-images.githubusercontent.com/74107667/156907927-f76db870-fc89-4d30-ba17-04d6fbfa18c7.jpg
-
+<img src="https://thumbs.dreamstime.com/z/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg" width="200px" height="200px">
 
 <h2>Greetings Respected viewers </h2>
 
