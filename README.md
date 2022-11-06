@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-<img src="https://thumbs.dreamstime.com/z/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg](https://img.freepik.com/free-photo/businessman-using-digital-tablet_53876-108317.jpg?w=900&t=st=1667718344~exp=1667718944~hmac=4713223e6e7bf3634fd44983f12d800846ad643a49b31cfc91b519ba39e3e853" width="800px" height="200px">
+<img src="https://user-images.githubusercontent.com/74107667/156907927-f76db870-fc89-4d30-ba17-04d6fbfa18c7.jpg" width="800px" height="200px">
 
 <h2>Greetings Respected viewers </h2>
 
