@@ -11,7 +11,9 @@
 <h2>Greetings Respected viewers </h2>
 
 <p>
-This is <strong><i> Anwar Ali </i></strong> and I am a <strong><i> Data Science </i></strong> enthusiast. I am highly interested into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Science, Cloud, and Machine Learning to achieve a level of <strong><i> Full-Stack Data Science </i></strong>.
+Hi, my name is Anwar Ali and I am from New Delhi, India. I'm a Full stack web developer and i have completed BTech in CSE in 2023.
+I completed a Data Science internship at Zummit Infolab and worked as a Frontend/UI Developer at Chetu, specializing in HTML, CSS, JavaScript, and ReactJS. I enjoy creating original projects with visually appealing designs—feel free to explore some of my work in the projects section.
+I am open to new collaborations or work where I can contribute and grow. Feel free to connect with me
 Anyone can find me on:  <a href="https://www.linkedin.com/in/anwar955732/">LinkedIn</a>
 </p>
 <p dir="auto">Anyone can also contact me via: <a href="mailto:geekysession@gmail.com">Email</a></p>
