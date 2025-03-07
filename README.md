@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on My Content Creation Skills On Youtube.
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Data Science
-- 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Data Science
+- 🌱 I’m currently learning Frontend Development
+- 👯 I’m looking to collaborate on Frontend Development
+- 🤔 I’m looking for help with Frontend Development
+- 💬 Ask me about Frontend Development
 - 📫 How to reach me: <a href="mailto:geekysession@gmail.com">Email</a>
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: ..
@@ -40,7 +40,7 @@ Anyone can find me on:  <a href="https://www.linkedin.com/in/anwar955732/">Linke
 <tbody>
 <tr>
 <td align="left">Programming</td>
-<td align="left">Python, C , Java</td>
+<td align="left">Python, JavaScript, Java</td>
 </tr>
 <tr>
 <td align="left">DataBase</td>
@@ -48,7 +48,7 @@ Anyone can find me on:  <a href="https://www.linkedin.com/in/anwar955732/">Linke
 </tr>
 <tr>
 <td align="left">Framework</td>
-<td align="left">Django</td>
+<td align="left">Django, Reactjs, Bootstrap</td>
 </tr>
 <tr>
 <td align="left">API</td>
@@ -76,7 +76,7 @@ Anyone can find me on:  <a href="https://www.linkedin.com/in/anwar955732/">Linke
 </tr>-->
 <tr>
 <td align="left">Cloud</td> 
-<td align="left">AWS, Heroku</td>
+<td align="left">AWS</td>
 </tr>
 <!-- <tr>
 <td align="left">Operating System</td>
@@ -105,12 +105,16 @@ Anyone can find me on:  <a href="https://www.linkedin.com/in/anwar955732/">Linke
 <tbody>
 <tr>
 <td align="left">Python</td>
-<td align="left">Numpy, Pandas, Matplotlib, Seaborn, BeautifulSoup, Scikit-Learn</td>
+<td align="left">Django</td>
 </tr>
 <tr>
-<td align="left">Machine Learning</td>
-<td align="left">Linear Regression, Logistic Regression, Decision Tree, Support vector machine</td>
+<td align="left">Javascript</td>
+<td align="left">Reactjs</td>
 </tr>
+<tr>
+<!-- <td align="left">Machine Learning</td>
+<td align="left">Linear Regression, Logistic Regression, Decision Tree, Support vector machine</td>
+</tr> -->
 <!-- <tr>
 <td align="left">Deep Learning</td>
 <td align="left">Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network</td>
